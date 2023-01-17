@@ -1,10 +1,10 @@
 const particlesConfig = {
   "particles": {
     "number": {
-      "value": 80,
+      "value": 178,
       "density": {
         "enable": true,
-        "value_area": 800
+        "value_arWea": 1024.0252067743202
       }
     },
     "color": {
@@ -72,7 +72,7 @@ const particlesConfig = {
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "repulse"
+        "mode": "grab"
       },
       "onclick": {
         "enable": true,
